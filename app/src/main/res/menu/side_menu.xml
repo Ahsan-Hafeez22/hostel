@@ -9,9 +9,9 @@
             android:icon="@drawable/about_us_icon"
             android:title="About us"/>
 
-        <item android:id="@+id/room_menu"
-            android:icon="@drawable/room_icon"
-            android:title="Rooms"/>
+        <item android:id="@+id/location_menu"
+            android:icon="@drawable/locaton_icon"
+            android:title="Location"/>
 
         <item android:id="@+id/luxeries_menu"
             android:icon="@drawable/lux"
